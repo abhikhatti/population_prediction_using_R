@@ -3,6 +3,10 @@ population
 
 Population Estimate Perf. Assessment WGU
 
+<p><medium><i>Project Synopsis & Raw Data Set Overview </i></medium></p>
+
+![image](https://user-images.githubusercontent.com/61843133/120374743-ed55f700-c2e7-11eb-9514-d1bfb8601660.png)
+
 Project Organization
 ------------
 
@@ -19,9 +23,9 @@ Project Organization
     │
     ├── models             <- Trained and serialized models, model predictions, or model summaries
     │
-    ├── notebooks          <- Jupyter notebooks. Naming convention is a number (for ordering),
-    │                         the creator's initials, and a short `-` delimited description, e.g.
-    │                         `1.0-jqp-initial-data-exploration`.
+    ├── notebooks          <- Jupyter notebooks.
+    │
+    ├── Presentations & Reports <- Final Management and Detailed Technical Reports generated as a deliverable of the project
     │
     ├── references         <- Data dictionaries, manuals, and all other explanatory materials.
     │
@@ -51,7 +55,12 @@ Project Organization
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.testrun.org
 
+<p><medium><i>Project Output & Conclusions </i></medium></p>
+
+![image](https://user-images.githubusercontent.com/61843133/120374893-1fffef80-c2e8-11eb-93e7-e5ea51ab81fa.png)
+
+
+
 
 --------
-
-<p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+Project based on the cookiecutter data science project template. #cookiecutterdatascience
